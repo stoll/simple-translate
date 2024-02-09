@@ -38,12 +38,12 @@ export default props => {
         updated={query.action === "updated"}
         extraCaption={
           <p className="caption">
-            <a href="https://github.com/sienori/simple-translate/releases" target="_blank">
+            <a href="https://github.com/stoll/simple-translate/releases" target="_blank">
               Version {extensionVersion}
             </a>
             <span>　</span>
             <a
-              href="https://github.com/sienori/simple-translate/blob/master/BACKERS.md"
+              href="https://github.com/stoll/simple-translate/blob/master/BACKERS.md"
               target="_blank"
             >
               {browser.i18n.getMessage("backersLabel")}
@@ -119,7 +119,7 @@ export default props => {
                   </a>
                 )}
               <span>　</span>
-              <a href="https://github.com/sienori/simple-translate" target="_blank">
+              <a href="https://github.com/stoll/simple-translate" target="_blank">
                 GitHub
               </a>
               <span>　</span>

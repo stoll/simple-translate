@@ -79,7 +79,7 @@ export default [
                 { className: "caption" },
                 React.createElement("a",
                   {
-                    href: "https://github.com/sienori/simple-translate/wiki/How-to-register-DeepL-API",
+                    href: "https://github.com/stoll/simple-translate/wiki/How-to-register-DeepL-API",
                     target: "_blank"
                   },
                   browser.i18n.getMessage("howToUseDeeplLabel"))

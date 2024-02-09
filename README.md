@@ -10,7 +10,7 @@
 
 ## Backers
 
-Thank you to the awesome **[backers](https://github.com/sienori/simple-translate/blob/master/BACKERS.md)** who supported Simple Translate!
+Thank you to the awesome **[backers](https://github.com/stoll/simple-translate/blob/master/BACKERS.md)** who supported Simple Translate!
 
 [<img src="other/promotion/badges/patreon.png" alt="Became a Patreon" height="44px" align="left">](https://www.patreon.com/sienori)
 [<img src="other/promotion/badges/paypal.png" alt="Check out with PayPal">](https://www.paypal.me/sienoriExt)
@@ -31,7 +31,7 @@ You can contribute by translating Simple Translate on **[Crowdin](https://crowdi
 
 > Required Node 18.17.1
 
-1. Clone the repository `git clone https://github.com/sienori/simple-translate`
+1. Clone the repository `git clone https://github.com/stoll/simple-translate`
 2. Run `npm install`
 3. Run `npm run watch-dev`
 
